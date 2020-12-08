@@ -1,0 +1,259 @@
+Loading radii. 
+High accuracy requested (DEF (default) settings). 
+Opening File: IRMOF1.cif
+Radii analysis: the smallest atom r = 1.231 while the largest atoms r = 1.7155.
+Starting Voronoi decomposition
+Box dimensions:
+  va=(25.832000 0 0)
+  vb=(0.000000 25.832000 0)
+  vc=(0.000000 0.000000 25.832000)
+
+Total particles = 12184
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 17237.492730
+  Total Voronoi volume = 17237.492730
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Finished Voronoi decomposition
+Command 0  -r
+Command 1  -ha
+Command 2  -res
+time-IRMOF1-res
+Loading radii. 
+High accuracy requested (DEF (default) settings). 
+Opening File: IRMOF1.cif
+Radii analysis: the smallest atom r = 1.231 while the largest atoms r = 1.7155.
+Starting Voronoi decomposition
+Box dimensions:
+  va=(25.832000 0 0)
+  vb=(0.000000 25.832000 0)
+  vc=(0.000000 0.000000 25.832000)
+
+Total particles = 12184
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 17237.492730
+  Total Voronoi volume = 17237.492730
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Finished Voronoi decomposition
+Command 0  -r
+Command 1  -ha
+Command 2  -chan
+
+Finding channels and pockets in Dijkstra network of 60559 node(s). 12649 are expected to compose pores.
+Analyzed and assigned 60559 nodes.
+Identified 1 channels and 0 pockets.
+12649 nodes assigned to pores. 
+time-IRMOF1-chan
+Loading radii. 
+High accuracy requested (DEF (default) settings). 
+Opening File: IRMOF1.cif
+Radii analysis: the smallest atom r = 1.3787 while the largest atoms r = 1.92136.
+Starting Voronoi decomposition
+Box dimensions:
+  va=(25.832000 0 0)
+  vb=(0.000000 25.832000 0)
+  vc=(0.000000 0.000000 25.832000)
+
+Total particles = 12184
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 17237.492730
+  Total Voronoi volume = 17237.492730
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Finished Voronoi decomposition
+Command 0  -r
+Command 1  -ha
+Command 2  -sa
+Box dimensions:
+  va=(25.832000 0 0)
+  vb=(0.000000 25.832000 0)
+  vc=(0.000000 0.000000 25.832000)
+
+Total particles = 12184
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 17237.492730
+  Total Voronoi volume = 17237.492730
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Voronoi network with 60920 nodes. 7092 of them are accessible. 
+
+Finding channels and pockets in Dijkstra network of 60920 node(s). 7092 are expected to compose pores.
+Analyzed and assigned 60920 nodes.
+Identified 1 channels and 0 pockets.
+7092 nodes assigned to pores. 
+time-IRMOF1-sa
+Loading radii. 
+High accuracy requested (DEF (default) settings). 
+Opening File: IRMOF1.cif
+Radii analysis: the smallest atom r = 1.231 while the largest atoms r = 1.7155.
+Starting Voronoi decomposition
+Box dimensions:
+  va=(25.832000 0 0)
+  vb=(0.000000 25.832000 0)
+  vc=(0.000000 0.000000 25.832000)
+
+Total particles = 12184
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 17237.492730
+  Total Voronoi volume = 17237.492730
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Finished Voronoi decomposition
+Command 0  -r
+Command 1  -ha
+Command 2  -volpo
+Box dimensions:
+  va=(25.832000 0 0)
+  vb=(0.000000 25.832000 0)
+  vc=(0.000000 0.000000 25.832000)
+
+Total particles = 12184
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 17237.492730
+  Total Voronoi volume = 17237.492730
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Voronoi network with 60559 nodes. 11013 of them are accessible. 
+
+Finding channels and pockets in Dijkstra network of 60559 node(s). 11013 are expected to compose pores.
+Analyzed and assigned 60559 nodes.
+Identified 1 channels and 0 pockets.
+11013 nodes assigned to pores. 
+ProbeOccupiableLoopStart: atoms: 424 count: 25022 count_inaxs: 0 count_inside: 24978 count_narrow: 0
+ProbeOccupiableLoopEnd: atoms: 424 count: 38218 count_inaxs: 0 count_inside: 10020 count_narrow: 1762
+time-IRMOF1-hvf
+Loading radii. 
+High accuracy requested (DEF (default) settings). 
+Opening File: IRMOF1.cif
+Radii analysis: the smallest atom r = 1.231 while the largest atoms r = 1.7155.
+Starting Voronoi decomposition
+Box dimensions:
+  va=(25.832000 0 0)
+  vb=(0.000000 25.832000 0)
+  vc=(0.000000 0.000000 25.832000)
+
+Total particles = 12184
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 17237.492730
+  Total Voronoi volume = 17237.492730
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Finished Voronoi decomposition
+Command 0  -r
+Command 1  -ha
+Command 2  -volpo
+Box dimensions:
+  va=(25.832000 0 0)
+  vb=(0.000000 25.832000 0)
+  vc=(0.000000 0.000000 25.832000)
+
+Total particles = 12184
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 17237.492730
+  Total Voronoi volume = 17237.492730
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Voronoi network with 60561 nodes. 8951 of them are accessible. 
+
+Finding channels and pockets in Dijkstra network of 60561 node(s). 8951 are expected to compose pores.
+Analyzed and assigned 60561 nodes.
+Identified 1 channels and 0 pockets.
+8951 nodes assigned to pores. 
+ProbeOccupiableLoopStart: atoms: 424 count: 21264 count_inaxs: 0 count_inside: 28736 count_narrow: 0
+ProbeOccupiableLoopEnd: atoms: 424 count: 37700 count_inaxs: 0 count_inside: 10020 count_narrow: 2280
+time-IRMOF1-freev
+Loading radii. 
+High accuracy requested (DEF (default) settings). 
+Opening File: IRMOF1.cif
+Radii analysis: the smallest atom r = 1.231 while the largest atoms r = 1.7155.
+Starting Voronoi decomposition
+Box dimensions:
+  va=(25.832000 0 0)
+  vb=(0.000000 25.832000 0)
+  vc=(0.000000 0.000000 25.832000)
+
+Total particles = 12184
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 17237.492730
+  Total Voronoi volume = 17237.492730
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Finished Voronoi decomposition
+Command 0  -r
+Command 1  -ha
+Command 2  -psd
+Box dimensions:
+  va=(25.832000 0 0)
+  vb=(0.000000 25.832000 0)
+  vc=(0.000000 0.000000 25.832000)
+
+Total particles = 12184
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 17237.492730
+  Total Voronoi volume = 17237.492730
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Voronoi network with 60559 nodes. 12649 of them are accessible. 
+
+Finding channels and pockets in Dijkstra network of 60559 node(s). 12649 are expected to compose pores.
+Analyzed and assigned 60559 nodes.
+Identified 1 channels and 0 pockets.
+12649 nodes assigned to pores. 
+Pore size distribution calculated.
+
+time-IRMOF1-psd
+real	11m12.437s
+user	11m11.637s
+sys	0m1.147s
+

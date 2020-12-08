@@ -1,0 +1,31 @@
+ MOF177.xyz
+V_A^3    35745.857
+M _g/mol     9180.480
+RHO_g/cm^3        0.426
+PLD_A         9.55
+LCD_A        10.86
+ D            3
+ Total               
+S_AC_A^2      7176.54
+S_AC_m^2/cm^3      2007.66
+S_AC_m^2/g      4707.61
+ Total               
+V_He_A^3    30695.823
+V_He_cm^3/g        2.014
+V_G_A^3    29361.094
+V_G cm^3/g:        1.926
+V_PO A^3:    28603.578
+V_PO cm^3/g:        1.876
+FV_PO:      0.80019
+ Network-accessible  
+S_AC_A^2      7153.89
+S_AC_m^2/cm^3      2001.32
+S_AC_m^2/g      4692.75
+ Network-accessible  
+V_He_A^3    30695.823
+V_He_cm^3/g        2.014
+V_G_A^3    29360.603
+V_G cm^3/g:        1.926
+V_PO A^3:    28573.739
+V_PO cm^3/g:        1.874
+FV_PO:      0.79936

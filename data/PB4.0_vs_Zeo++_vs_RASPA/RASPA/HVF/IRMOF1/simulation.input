@@ -1,0 +1,17 @@
+SimulationType        MonteCarlo
+NumberOfCycles        1000
+PrintEvery            100
+PrintPropertiesEvery  100
+
+Forcefield            local
+
+Framework 0
+FrameworkName IRMOF-1
+UnitCells 1 1 1 
+ExternalTemperature 298.0
+MovieScale 1.0
+
+Component 0 MoleculeName             helium
+            MoleculeDefinition       local
+            WidomProbability         1.0
+            CreateNumberOfMolecules  0

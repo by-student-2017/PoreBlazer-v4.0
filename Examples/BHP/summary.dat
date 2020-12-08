@@ -1,0 +1,31 @@
+ BPH.xyz
+V_A^3     1706.323
+M _g/mol     1455.807
+RHO_g/cm^3        1.417
+PLD_A         5.26
+LCD_A         8.18
+ D            1
+ Total               
+S_AC_A^2       171.25
+S_AC_m^2/cm^3      1003.59
+S_AC_m^2/g       708.38
+ Total               
+V_He_A^3      753.427
+V_He_cm^3/g        0.312
+V_G_A^3      903.460
+V_G cm^3/g:        0.374
+V_PO A^3:      687.713
+V_PO cm^3/g:        0.284
+FV_PO:      0.40304
+ Network-accessible  
+S_AC_A^2       162.14
+S_AC_m^2/cm^3       950.25
+S_AC_m^2/g       670.73
+ Network-accessible  
+V_He_A^3      753.427
+V_He_cm^3/g        0.312
+V_G_A^3      903.256
+V_G cm^3/g:        0.374
+V_PO A^3:      693.701
+V_PO cm^3/g:        0.287
+FV_PO:      0.40655

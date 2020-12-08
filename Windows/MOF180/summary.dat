@@ -1,0 +1,31 @@
+ MOF180.xyz
+V_A^3    67549.864
+M _g/mol    11023.600
+RHO_g/cm^3        0.271
+PLD_A        12.77
+LCD_A        15.23
+ D            1
+ Total               
+S_AC_A^2     10670.90
+S_AC_m^2/cm^3      1579.71
+S_AC_m^2/g      5829.46
+ Total               
+V_He_A^3    61839.559
+V_He_cm^3/g        3.378
+V_G_A^3    60089.156
+V_G cm^3/g:        3.283
+V_PO A^3:    59380.104
+V_PO cm^3/g:        3.244
+FV_PO:      0.87906
+ Network-accessible  
+S_AC_A^2     10681.74
+S_AC_m^2/cm^3      1581.31
+S_AC_m^2/g      5835.38
+ Network-accessible  
+V_He_A^3    61839.559
+V_He_cm^3/g        3.378
+V_G_A^3    60088.557
+V_G cm^3/g:        3.283
+V_PO A^3:    59289.379
+V_PO cm^3/g:        3.239
+FV_PO:      0.87771

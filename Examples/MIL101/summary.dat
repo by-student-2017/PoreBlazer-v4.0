@@ -1,0 +1,31 @@
+ MIL101.xyz
+V_A^3   701860.627
+M _g/mol   192412.640
+RHO_g/cm^3        0.455
+PLD_A        13.18
+LCD_A        33.29
+ D            2
+ Total               
+S_AC_A^2     91420.94
+S_AC_m^2/cm^3      1302.55
+S_AC_m^2/g      2861.30
+ Total               
+V_He_A^3   564152.866
+V_He_cm^3/g        1.766
+V_G_A^3   580302.082
+V_G cm^3/g:        1.816
+V_PO A^3:   551461.068
+V_PO cm^3/g:        1.726
+FV_PO:      0.78571
+ Network-accessible  
+S_AC_A^2     89319.99
+S_AC_m^2/cm^3      1272.62
+S_AC_m^2/g      2795.54
+ Network-accessible  
+V_He_A^3   564152.866
+V_He_cm^3/g        1.766
+V_G_A^3   580042.740
+V_G cm^3/g:        1.815
+V_PO A^3:   542223.953
+V_PO cm^3/g:        1.697
+FV_PO:      0.77255

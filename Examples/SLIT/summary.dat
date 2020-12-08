@@ -1,0 +1,31 @@
+ Slit.xyz
+V_A^3      850.000
+M _g/mol    10584.000
+RHO_g/cm^3       20.677
+PLD_A         4.99
+LCD_A         4.99
+ D            2
+ Total               
+S_AC_A^2       353.74
+S_AC_m^2/cm^3      4161.64
+S_AC_m^2/g       201.27
+ Total               
+V_He_A^3 ************
+V_He_cm^3/g  8118002.558
+V_G_A^3      509.190
+V_G cm^3/g:        0.029
+V_PO A^3:      505.932
+V_PO cm^3/g:        0.029
+FV_PO:      0.59521
+ Network-accessible  
+S_AC_A^2       352.66
+S_AC_m^2/cm^3      4148.93
+S_AC_m^2/g       200.66
+ Network-accessible  
+V_He_A^3 ************
+V_He_cm^3/g  8118002.558
+V_G_A^3      509.190
+V_G cm^3/g:        0.029
+V_PO A^3:      506.288
+V_PO cm^3/g:        0.029
+FV_PO:      0.59563

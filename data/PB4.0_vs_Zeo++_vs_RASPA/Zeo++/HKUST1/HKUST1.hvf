@@ -1,0 +1,3 @@
+@ HKUST1.hvf Unitcell_volume: 18166.4   Density: 0.884635   POAV_A^3: 11929.9 POAV_Volume_fraction: 0.6567 POAV_cm^3/g: 0.74234 PONAV_A^3: 0 PONAV_Volume_fraction: 0 PONAV_cm^3/g: 0
+PROBE_OCCUPIABLE_VOL_CALC: filename| density(g/cm3)| probe rad| N points| probe ctr A fract| probe ctr NA fract| A fract| NA fract| narrow fract |ovlp fract.
+PROBE_OCCUPIABLE___RESULT: HKUST1.hvf	0.884635	1.32	50000	0.35736	0	0.6567	0	0.04534	0.29796

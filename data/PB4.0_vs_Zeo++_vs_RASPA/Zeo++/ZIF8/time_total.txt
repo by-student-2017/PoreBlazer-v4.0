@@ -1,0 +1,259 @@
+Loading radii. 
+High accuracy requested (DEF (default) settings). 
+Opening File: ZIF8AP.cif
+Radii analysis: the smallest atom r = 1.231 while the largest atoms r = 1.7155.
+Starting Voronoi decomposition
+Box dimensions:
+  va=(16.993200 0 0)
+  vb=(0.000000 16.993200 0)
+  vc=(0.000000 0.000000 16.993200)
+
+Total particles = 13476
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 4907.106758
+  Total Voronoi volume = 4907.106758
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Finished Voronoi decomposition
+Command 0  -r
+Command 1  -ha
+Command 2  -res
+time-ZIF8-res
+Loading radii. 
+High accuracy requested (DEF (default) settings). 
+Opening File: ZIF8AP.cif
+Radii analysis: the smallest atom r = 1.231 while the largest atoms r = 1.7155.
+Starting Voronoi decomposition
+Box dimensions:
+  va=(16.993200 0 0)
+  vb=(0.000000 16.993200 0)
+  vc=(0.000000 0.000000 16.993200)
+
+Total particles = 13476
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 4907.106758
+  Total Voronoi volume = 4907.106758
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Finished Voronoi decomposition
+Command 0  -r
+Command 1  -ha
+Command 2  -chan
+
+Finding channels and pockets in Dijkstra network of 61815 node(s). 5367 are expected to compose pores.
+Analyzed and assigned 61815 nodes.
+Identified 1 channels and 0 pockets.
+5367 nodes assigned to pores. 
+time-ZIF8-chan
+Loading radii. 
+High accuracy requested (DEF (default) settings). 
+Opening File: ZIF8AP.cif
+Radii analysis: the smallest atom r = 1.3787 while the largest atoms r = 1.92136.
+Starting Voronoi decomposition
+Box dimensions:
+  va=(16.993200 0 0)
+  vb=(0.000000 16.993200 0)
+  vc=(0.000000 0.000000 16.993200)
+
+Total particles = 13476
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 4907.106758
+  Total Voronoi volume = 4907.106758
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Finished Voronoi decomposition
+Command 0  -r
+Command 1  -ha
+Command 2  -sa
+Box dimensions:
+  va=(16.993200 0 0)
+  vb=(0.000000 16.993200 0)
+  vc=(0.000000 0.000000 16.993200)
+
+Total particles = 13476
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 4907.106758
+  Total Voronoi volume = 4907.106758
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Voronoi network with 62016 nodes. 2213 of them are accessible. 
+
+Finding channels and pockets in Dijkstra network of 62016 node(s). 2213 are expected to compose pores.
+Analyzed and assigned 62016 nodes.
+Identified 0 channels and 2 pockets.
+2213 nodes assigned to pores. 
+time-ZIF8-sa
+Loading radii. 
+High accuracy requested (DEF (default) settings). 
+Opening File: ZIF8AP.cif
+Radii analysis: the smallest atom r = 1.231 while the largest atoms r = 1.7155.
+Starting Voronoi decomposition
+Box dimensions:
+  va=(16.993200 0 0)
+  vb=(0.000000 16.993200 0)
+  vc=(0.000000 0.000000 16.993200)
+
+Total particles = 13476
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 4907.106758
+  Total Voronoi volume = 4907.106758
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Finished Voronoi decomposition
+Command 0  -r
+Command 1  -ha
+Command 2  -volpo
+Box dimensions:
+  va=(16.993200 0 0)
+  vb=(0.000000 16.993200 0)
+  vc=(0.000000 0.000000 16.993200)
+
+Total particles = 13476
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 4907.106758
+  Total Voronoi volume = 4907.106758
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Voronoi network with 61815 nodes. 4013 of them are accessible. 
+
+Finding channels and pockets in Dijkstra network of 61815 node(s). 4013 are expected to compose pores.
+Analyzed and assigned 61815 nodes.
+Identified 1 channels and 0 pockets.
+4013 nodes assigned to pores. 
+ProbeOccupiableLoopStart: atoms: 276 count: 10957 count_inaxs: 0 count_inside: 39043 count_narrow: 0
+ProbeOccupiableLoopEnd: atoms: 276 count: 23884 count_inaxs: 0 count_inside: 20090 count_narrow: 6026
+time-ZIF8-hvf
+Loading radii. 
+High accuracy requested (DEF (default) settings). 
+Opening File: ZIF8AP.cif
+Radii analysis: the smallest atom r = 1.231 while the largest atoms r = 1.7155.
+Starting Voronoi decomposition
+Box dimensions:
+  va=(16.993200 0 0)
+  vb=(0.000000 16.993200 0)
+  vc=(0.000000 0.000000 16.993200)
+
+Total particles = 13476
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 4907.106758
+  Total Voronoi volume = 4907.106758
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Finished Voronoi decomposition
+Command 0  -r
+Command 1  -ha
+Command 2  -volpo
+Box dimensions:
+  va=(16.993200 0 0)
+  vb=(0.000000 16.993200 0)
+  vc=(0.000000 0.000000 16.993200)
+
+Total particles = 13476
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 4907.106758
+  Total Voronoi volume = 4907.106758
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Voronoi network with 61815 nodes. 3054 of them are accessible. 
+
+Finding channels and pockets in Dijkstra network of 61815 node(s). 3054 are expected to compose pores.
+Analyzed and assigned 61815 nodes.
+Identified 0 channels and 2 pockets.
+3054 nodes assigned to pores. 
+ProbeOccupiableLoopStart: atoms: 276 count: 0 count_inaxs: 8443 count_inside: 41557 count_narrow: 0
+ProbeOccupiableLoopEnd: atoms: 276 count: 0 count_inaxs: 23150 count_inside: 20090 count_narrow: 6760
+time-ZIF8-freev
+Loading radii. 
+High accuracy requested (DEF (default) settings). 
+Opening File: ZIF8AP.cif
+Radii analysis: the smallest atom r = 1.231 while the largest atoms r = 1.7155.
+Starting Voronoi decomposition
+Box dimensions:
+  va=(16.993200 0 0)
+  vb=(0.000000 16.993200 0)
+  vc=(0.000000 0.000000 16.993200)
+
+Total particles = 13476
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 4907.106758
+  Total Voronoi volume = 4907.106758
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Finished Voronoi decomposition
+Command 0  -r
+Command 1  -ha
+Command 2  -psd
+Box dimensions:
+  va=(16.993200 0 0)
+  vb=(0.000000 16.993200 0)
+  vc=(0.000000 0.000000 16.993200)
+
+Total particles = 13476
+
+Internal grid size = (12 12 12)
+
+Using voro++ with radii for particles.
+Performing Voronoi decomposition.
+Volume check:
+  Total domain volume  = 4907.106758
+  Total Voronoi volume = 4907.106758
+Voronoi decomposition finished. Rerouting Voronoi network information.
+Finished rerouting information.
+Voronoi network with 61815 nodes. 5367 of them are accessible. 
+
+Finding channels and pockets in Dijkstra network of 61815 node(s). 5367 are expected to compose pores.
+Analyzed and assigned 61815 nodes.
+Identified 1 channels and 0 pockets.
+5367 nodes assigned to pores. 
+Pore size distribution calculated.
+
+time-ZIF8-psd
+real	45m14.391s
+user	45m14.135s
+sys	0m1.936s
+

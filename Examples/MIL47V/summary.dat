@@ -1,0 +1,31 @@
+ MIL47V.xyz
+V_A^3    24546.685
+M _g/mol    14780.288
+RHO_g/cm^3        1.000
+PLD_A         7.01
+LCD_A         7.56
+ D            1
+ Total               
+S_AC_A^2      3249.62
+S_AC_m^2/cm^3      1323.85
+S_AC_m^2/g      1324.04
+ Total               
+V_He_A^3    15444.132
+V_He_cm^3/g        0.629
+V_G_A^3    15082.181
+V_G cm^3/g:        0.615
+V_PO A^3:    12960.118
+V_PO cm^3/g:        0.528
+FV_PO:      0.52798
+ Network-accessible  
+S_AC_A^2      3268.62
+S_AC_m^2/cm^3      1331.59
+S_AC_m^2/g      1331.78
+ Network-accessible  
+V_He_A^3    15444.132
+V_He_cm^3/g        0.629
+V_G_A^3    15081.439
+V_G cm^3/g:        0.614
+V_PO A^3:    13021.315
+V_PO cm^3/g:        0.531
+FV_PO:      0.53047

@@ -1,0 +1,19 @@
+SimulationType        MonteCarlo
+NumberOfCycles        2000
+PrintEvery            1000
+
+
+Forcefield UFF
+ContinueAfterCrash      no
+WriteBinaryRestartFileEvery 100
+CutOff 12.0
+
+Framework 0
+FrameworkName ZIF8AP
+UnitCells 2 2 2
+SurfaceAreaProbeDistance Minimum 
+
+Component 0 MoleculeName             N2
+            MoleculeDefinition       TraPPE
+            SurfaceAreaProbability   1.0
+            CreateNumberOfMolecules  0

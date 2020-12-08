@@ -1,0 +1,18 @@
+UFF.atoms
+Cd121.xyz
+3.681
+5000
+25.0960   10.7885   17.5107
+90. 128.996  90.    
+1.5	
+
+
+
+! file containing the atom types and diameters
+! file containing the framework coordinates
+! probe size in A
+! number of trial insertion
+! length of unit cell a, b, c in A
+! unit cell angles alpha, beta, gamma
+! crystal density in g / cm3
+

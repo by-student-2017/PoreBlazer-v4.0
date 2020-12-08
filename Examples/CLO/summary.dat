@@ -1,0 +1,31 @@
+ CLO.xyz
+V_A^3   138284.659
+M _g/mol    91657.536
+RHO_g/cm^3        1.101
+PLD_A         5.63
+LCD_A        15.01
+ D            3
+ Total               
+S_AC_A^2     19510.15
+S_AC_m^2/cm^3      1410.87
+S_AC_m^2/g      1281.87
+ Total               
+V_He_A^3    96755.456
+V_He_cm^3/g        0.636
+V_G_A^3    89435.833
+V_G cm^3/g:        0.588
+V_PO A^3:    78336.846
+V_PO cm^3/g:        0.515
+FV_PO:      0.56649
+ Network-accessible  
+S_AC_A^2     16493.68
+S_AC_m^2/cm^3      1192.73
+S_AC_m^2/g      1083.68
+ Network-accessible  
+V_He_A^3    96755.456
+V_He_cm^3/g        0.636
+V_G_A^3    89404.195
+V_G cm^3/g:        0.587
+V_PO A^3:    62949.494
+V_PO cm^3/g:        0.414
+FV_PO:      0.45522

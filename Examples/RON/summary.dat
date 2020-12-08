@@ -1,0 +1,31 @@
+ RON.xyz
+V_A^3     3077.658
+M _g/mol     4359.794
+RHO_g/cm^3        2.352
+PLD_A         4.24
+LCD_A         5.11
+ D            1
+ Total               
+S_AC_A^2       106.54
+S_AC_m^2/cm^3       346.17
+S_AC_m^2/g       147.16
+ Total               
+V_He_A^3     1241.381
+V_He_cm^3/g        0.171
+V_G_A^3     1135.912
+V_G cm^3/g:        0.157
+V_PO A^3:      551.372
+V_PO cm^3/g:        0.076
+FV_PO:      0.17915
+ Network-accessible  
+S_AC_A^2       104.80
+S_AC_m^2/cm^3       340.53
+S_AC_m^2/g       144.77
+ Network-accessible  
+V_He_A^3     1241.381
+V_He_cm^3/g        0.171
+V_G_A^3     1135.838
+V_G cm^3/g:        0.157
+V_PO A^3:      541.567
+V_PO cm^3/g:        0.075
+FV_PO:      0.17597
