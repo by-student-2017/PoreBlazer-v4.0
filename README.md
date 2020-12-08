@@ -13,6 +13,14 @@
 -----
 # Examples (Ubuntu 18.04 LTS or Debian 10.0)
 1. cd ~/PoreBlazer-v4.0
+2. cd Examples/HKUST1
+3. chmod +x ./run.sh
+4. ./run.sh
+
+
+-----
+# Examples (Ubuntu 18.04 LTS or Debian 10.0) (need cif2cell)
+1. cd ~/PoreBlazer-v4.0
 2. cd Examples/seq
 3. chmod +x ./run.sh
 4. ./run.sh
