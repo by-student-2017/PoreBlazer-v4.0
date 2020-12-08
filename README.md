@@ -5,8 +5,9 @@
 # Installation (Ubuntu 18.04 LTS or Debian 10.0)
 1. cd ~
 2. git clone https://github.com/by-student-2017/PoreBlazer-v4.0.git
-3. chmod +x ./install.sh
-4. ./install.sh
+3. cd ~/PoreBlazer-v4.0
+4. chmod +x ./install.sh
+5. ./install.sh
 
 
 -----
