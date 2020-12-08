@@ -10,7 +10,7 @@ for cif in *.cif; do
   cp ../../defaults.dat ./
   cp ../../UFF.atoms ./
   cp ../../png.gpl ./
-  cif2cell -p xyz -f ${cifname}.cif
+  cif2cell --no-reduce -p xyz -f ${cifname}.cif
 
   a=`awk '{if($1=="_cell_length_a"){print $2}}' ${cifname}.cif`
   b=`awk '{if($1=="_cell_length_b"){print $2}}' ${cifname}.cif` 
@@ -21,7 +21,8 @@ for cif in *.cif; do
   echo "${cifname}.xyz" > input.dat
   echo "$a $b $c" >> input.dat
   echo "$alpha $beta $gamma" >> input.dat
-  sed -i s///g input.dat
+  sed -i s/
+//g input.dat
 
   ../../../../src/poreblazer.exe < input.dat | tee results.txt
 
