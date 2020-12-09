@@ -19,7 +19,7 @@
 
 
 -----
-# cif2cell Installation (Ubuntu 18.04 LTS or Debian 10.0)
+# cif2cell installation (Ubuntu 18.04 LTS or Debian 10.0)
 1. cd ~/PoreBlazer-v4.0
 4. chmod +x ./install_cif2cell.sh
 5. ./install_cif2cell.sh
