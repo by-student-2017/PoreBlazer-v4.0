@@ -1,15 +1,20 @@
 #!/bin/bash
 
-mkdir Results
+echo "Name      SA(m2/g)  rho(g/cm3)  Vpore(He_cm3/g)  Dmax(A)  PLD" > results_tmp.txt
+echo "Name,SA (m2/g),rho(g/cm3),Vpore(He_cm3/g),Dmax(A),PLD" > results.csv
+
+mkdir results
+cp ./cif/* ./
 for cif in *.cif; do
+  echo "calculation: "${cif}
   cifname=`echo ${cif} | sed s/.cif//`
-  cd Results
+  cd results
   mkdir ${cifname}
   cd ${cifname}
-  cp ../../${cif} ./
-  cp ../../defaults.dat ./
-  cp ../../UFF.atoms ./
-  cp ../../png.gpl ./
+  mv ../../${cif} ./
+  cp ../../main/defaults.dat ./
+  cp ../../main/UFF.atoms ./
+  cp ../../main/png.gpl ./
   cif2cell --no-reduce -p xyz -f ${cifname}.cif
 
   a=`awk '{if($1=="_cell_length_a"){print $2}}' ${cifname}.cif`
@@ -27,6 +32,21 @@ for cif in *.cif; do
   ../../../../src/poreblazer.exe < input.dat | tee results.txt
 
   gnuplot png.gpl
+
+  sa=`awk '{if($1=="Total" && $2=="surface" && $5=="mass" && $7=="m^2/g:"){print $8}}' results.txt`
+  rho=`awk '{if($1=="System" && $2=="density," && $3=="g/cm^3:"){print $4}}' results.txt`
+  vpore=`awk '{if($1=="Total" && $2=="helium" && $3=="volume" && $5=="cm^3/g:"){print $6}}' results.txt`
+  dmax=`awk '{if($1=="Maximum" && $2=="pore"){print $6}}' results.txt`
+  pld=`awk '{if($1=="Pore" && $2=="limiting"){print $6}}' results.txt`
+  echo "------------ -------- ---------- --------------- ------- ------" >> ../../results_tmp.txt
+  echo "${cifname}  ${sa}  ${rho}  ${vpore}  ${dmax}  ${pld}" >> ../../results_tmp.txt
+  echo "${cifname},${sa},${rho},${vpore},${dmax},${pld}" >> ../../results.csv
   cd ../../
 done
 
+# cat results.csv | column -x -t -s, > results.txt
+cat results_tmp.txt | column -x -t > results.txt
+cat results.txt
+rm results_tmp.txt
+
+# main directory (defaults.dat  png.gpl  UFF.atoms)
