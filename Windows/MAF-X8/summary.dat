@@ -1,0 +1,31 @@
+ MAF-X8.xyz
+V_A^3     7785.216
+M _g/mol     4470.464
+RHO_g/cm^3        0.954
+PLD_A         6.31
+LCD_A         7.07
+ D            1
+ Total               
+S_AC_A^2       863.16
+S_AC_m^2/cm^3      1108.72
+S_AC_m^2/g      1162.77
+ Total               
+V_He_A^3     4212.898
+V_He_cm^3/g        0.568
+V_G_A^3     4613.132
+V_G cm^3/g:        0.621
+V_PO A^3:     3495.831
+V_PO cm^3/g:        0.471
+FV_PO:      0.44903
+ Network-accessible  
+S_AC_A^2       892.44
+S_AC_m^2/cm^3      1146.33
+S_AC_m^2/g      1202.21
+ Network-accessible  
+V_He_A^3     4212.898
+V_He_cm^3/g        0.568
+V_G_A^3     4611.063
+V_G cm^3/g:        0.621
+V_PO A^3:     3516.397
+V_PO cm^3/g:        0.474
+FV_PO:      0.45168

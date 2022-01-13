@@ -1,0 +1,31 @@
+ Mg-DOBDC.xyz
+V_A^3     3934.866
+M _g/mol     2183.490
+RHO_g/cm^3        0.921
+PLD_A        10.82
+LCD_A        11.60
+ D            1
+ Total               
+S_AC_A^2       580.53
+S_AC_m^2/cm^3      1475.34
+S_AC_m^2/g      1601.11
+ Total               
+V_He_A^3     2580.441
+V_He_cm^3/g        0.712
+V_G_A^3     2552.873
+V_G cm^3/g:        0.704
+V_PO A^3:     2398.935
+V_PO cm^3/g:        0.662
+FV_PO:      0.60966
+ Network-accessible  
+S_AC_A^2       547.90
+S_AC_m^2/cm^3      1392.42
+S_AC_m^2/g      1511.12
+ Network-accessible  
+V_He_A^3     2580.441
+V_He_cm^3/g        0.712
+V_G_A^3     2551.419
+V_G cm^3/g:        0.704
+V_PO A^3:     2386.852
+V_PO cm^3/g:        0.658
+FV_PO:      0.60659

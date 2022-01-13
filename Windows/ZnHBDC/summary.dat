@@ -1,0 +1,31 @@
+ ZnHBDC.xyz
+V_A^3     4269.518
+M _g/mol     2227.204
+RHO_g/cm^3        0.866
+PLD_A         7.53
+LCD_A         9.35
+ D            1
+ Total               
+S_AC_A^2       622.43
+S_AC_m^2/cm^3      1457.84
+S_AC_m^2/g      1682.98
+ Total               
+V_He_A^3     2698.570
+V_He_cm^3/g        0.730
+V_G_A^3     2777.222
+V_G cm^3/g:        0.751
+V_PO A^3:     2428.403
+V_PO cm^3/g:        0.657
+FV_PO:      0.56878
+ Network-accessible  
+S_AC_A^2       605.69
+S_AC_m^2/cm^3      1418.64
+S_AC_m^2/g      1637.73
+ Network-accessible  
+V_He_A^3     2698.570
+V_He_cm^3/g        0.730
+V_G_A^3     2776.494
+V_G cm^3/g:        0.751
+V_PO A^3:     2405.832
+V_PO cm^3/g:        0.651
+FV_PO:      0.56349
