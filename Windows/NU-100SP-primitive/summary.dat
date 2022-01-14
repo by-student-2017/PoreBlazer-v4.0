@@ -1,0 +1,31 @@
+ NU-100SP-primitive.xyz
+V_A^3    53655.148
+M _g/mol     9013.104
+RHO_g/cm^3        0.279
+PLD_A        11.26
+LCD_A        28.75
+ D            3
+ Total               
+S_AC_A^2      8728.26
+S_AC_m^2/cm^3      1626.73
+S_AC_m^2/g      5831.82
+ Total               
+V_He_A^3    48875.997
+V_He_cm^3/g        3.266
+V_G_A^3    47134.321
+V_G cm^3/g:        3.149
+V_PO A^3:    46592.276
+V_PO cm^3/g:        3.113
+FV_PO:      0.86837
+ Network-accessible  
+S_AC_A^2      8659.96
+S_AC_m^2/cm^3      1614.00
+S_AC_m^2/g      5786.19
+ Network-accessible  
+V_He_A^3    48875.997
+V_He_cm^3/g        3.266
+V_G_A^3    47129.866
+V_G cm^3/g:        3.149
+V_PO A^3:    46616.150
+V_PO cm^3/g:        3.115
+FV_PO:      0.86881

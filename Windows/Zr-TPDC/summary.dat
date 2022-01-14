@@ -1,0 +1,31 @@
+ Zr-TPDC.xyz
+V_A^3    35212.404
+M _g/mol    10285.376
+RHO_g/cm^3        0.485
+PLD_A         8.06
+LCD_A        17.23
+ D            3
+ Total               
+S_AC_A^2      7172.42
+S_AC_m^2/cm^3      2036.90
+S_AC_m^2/g      4199.49
+ Total               
+V_He_A^3    28092.098
+V_He_cm^3/g        1.645
+V_G_A^3    27717.603
+V_G cm^3/g:        1.623
+V_PO A^3:    26509.115
+V_PO cm^3/g:        1.552
+FV_PO:      0.75283
+ Network-accessible  
+S_AC_A^2      7217.40
+S_AC_m^2/cm^3      2049.68
+S_AC_m^2/g      4225.83
+ Network-accessible  
+V_He_A^3    28092.098
+V_He_cm^3/g        1.645
+V_G_A^3    27709.813
+V_G cm^3/g:        1.622
+V_PO A^3:    26523.833
+V_PO cm^3/g:        1.553
+FV_PO:      0.75325
