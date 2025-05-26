@@ -34,7 +34,7 @@
 
 
 -----
-# Windows 11 (cygwin compile version)
+# Windows 11 (cygwin compiling version)
 1. cd Windows11_cygwin
 2. cd ZIF90
 3. run.bat
