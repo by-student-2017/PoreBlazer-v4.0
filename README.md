@@ -34,6 +34,16 @@
 
 
 -----
+# Windows 11 (cygwin compile version)
+1. cd Windows11_cygwin
+2. cd ZIF90
+3. run.bat
+4. (wait a few minutes)
+5. (you can get results.txt and psd.txt)
+6. (double click) plot.gpl (need gnuplot)
+
+
+-----
 # Installation (Ubuntu 18.04 LTS or Debian 10.0)
 1. cd ~
 2. git clone https://github.com/by-student-2017/PoreBlazer-v4.0.git
@@ -66,7 +76,7 @@
 
 
 -----
-# Windows 10
+# Windows 10 or Windows 11
 1. cd Windows
 2. cd ZIF90
 3. run.bat
