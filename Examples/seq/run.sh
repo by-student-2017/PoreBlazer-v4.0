@@ -26,8 +26,7 @@ for cif in *.cif; do
   echo "${cifname}.xyz" > input.dat
   echo "$a $b $c" >> input.dat
   echo "$alpha $beta $gamma" >> input.dat
-  sed -i s/
-//g input.dat
+  sed -i s///g input.dat
 
   ../../../../src/poreblazer.exe < input.dat | tee results.txt
 
