@@ -68,7 +68,7 @@
 -----
 # Windows 10
 1. cd Windows
-2. cd HKUST1
+2. cd ZIF90
 3. run.bat
 4. (wait a few minutes)
 5. (you can get results.txt and psd.txt)
