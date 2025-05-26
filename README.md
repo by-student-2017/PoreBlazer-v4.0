@@ -2,6 +2,38 @@
 
 
 -----
+# Installation (Ubuntu 22.04 LTS on Windows 11 (WSL2))
+1. cd ~
+2. git clone https://github.com/by-student-2017/PoreBlazer-v4.0.git
+3. cd PoreBlazer-v4.0
+4. chmod +x ./install.sh
+5. ./install.sh
+
+
+-----
+# Examples (Ubuntu 22.04 LTS on Windows 11 (WSL2))
+1. cd ~/PoreBlazer-v4.0
+2. cd Examples/HKUST1
+3. chmod +x ./run.sh
+4. ./run.sh
+
+
+-----
+# cif2cell installation (Ubuntu 22.04 LTS on Windows 11 (WSL2))
+1. cd ~/PoreBlazer-v4.0
+4. chmod +x ./install_cif2cell_py3.sh
+5. ./install_cif2cell_py3.sh
+
+
+-----
+# Examples (Ubuntu 22.04 LTS on Windows 11 (WSL2)) (need cif2cell)
+1. cd ~/PoreBlazer-v4.0
+2. cd Examples/seq
+3. chmod +x ./run.sh
+4. ./run.sh
+
+
+-----
 # Installation (Ubuntu 18.04 LTS or Debian 10.0)
 1. cd ~
 2. git clone https://github.com/by-student-2017/PoreBlazer-v4.0.git
