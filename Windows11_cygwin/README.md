@@ -22,7 +22,7 @@ Attention !!!
 4. VESTA: File -> Export Data ... (xyz file (*.xyz)) -> Do you want to save hidden atoms too?: No
 5. input input.dat for cif file
 
-cif file name
+xyz file name
 
 
 value of _cell_length_a    value of _cell_length_b    value of _cell_length_c
