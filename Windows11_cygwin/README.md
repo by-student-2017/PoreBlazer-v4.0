@@ -15,6 +15,7 @@ Attention !!!
     Please check total number of atoms
   There are cases where the above procedure does not work (the number of atoms does not match). In that case, the correct result will not be output with the data of "xyz" by "VESTA". 
 
+## Usage
 1. copy & paste ZIF-90 to oteher name (e.g., NEW-folder)
 2. put cif file into NEW-folder
 3. open cif file on VESTA
