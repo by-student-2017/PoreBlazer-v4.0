@@ -24,10 +24,10 @@ Attention !!!
 cif file name
 
 
-value of _cell_length_a  value of _cell_length_b  value of _cell_length_c
+value of _cell_length_a    value of _cell_length_b    value of _cell_length_c
 
 
-value of _cell_angle_alpha  value of _cell_angle_beta  value of _cell_angle_gamma
+value of _cell_angle_alpha    value of _cell_angle_beta    value of _cell_angle_gamma
 
 6. click run.exe
 7. click plot.gpl
