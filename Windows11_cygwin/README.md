@@ -20,10 +20,10 @@ Attention !!!
 3. open cif file on VESTA
 4. VESTA: File -> Export Data ... (xyz file (*.xyz)) -> Do you want to save hidden atoms too?: No
 5. input input.dat for cif file
------
+'''
 cif file name
 _cell_length_a  _cell_length_b  _cell_length_c
 _cell_angle_alpha  _cell_angle_beta  _cell_angle_gamma
------
+'''
 6. click run.exe
 7. click plot.gpl
