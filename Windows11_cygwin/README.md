@@ -21,5 +21,8 @@ Attention !!!
 4. VESTA: File -> Save
 5. copy & paste MOF-90 to oteher name (e.g., NEW)
 6. cif file into NEW file
-7. input input.dat
-8. click run.exe
+7. input input.dat for cif file
+-----
+
+-----
+9. click run.exe
