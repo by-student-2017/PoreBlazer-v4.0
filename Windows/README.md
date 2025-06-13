@@ -14,3 +14,20 @@ Attention !!!
     Do you want to save hidden atoms too?: No
     Please check total number of atoms
   There are cases where the above procedure does not work (the number of atoms does not match). In that case, the correct result will not be output with the data of "xyz" by "VESTA". 
+
+1. copy & paste ZIF-90 to oteher name (e.g., NEW-folder)
+2. put cif file into NEW-folder
+3. open cif file on VESTA
+4. VESTA: File -> Export Data ... (xyz file (*.xyz)) -> Do you want to save hidden atoms too?: No
+5. input input.dat for cif file
+
+cif file name
+
+
+value of _cell_length_a    value of _cell_length_b    value of _cell_length_c
+
+
+value of _cell_angle_alpha    value of _cell_angle_beta    value of _cell_angle_gamma
+
+6. click run.exe
+7. click plot.gpl
