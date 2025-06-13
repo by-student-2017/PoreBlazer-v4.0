@@ -17,12 +17,13 @@ Attention !!!
 
 1. open VESTA
 2. drag & drop cif file to VESTA
-3. VESTA: Edit -> Edit Deta -> Unit Cell... -> Remove symmetry
-4. VESTA: File -> Save
-5. copy & paste MOF-90 to oteher name (e.g., NEW)
-6. cif file into NEW file
-7. input input.dat for cif file
+3. VESTA: File -> Save as ... (xyz file (*.xyz))
+4. copy & paste MOF-90 to oteher name (e.g., NEW)
+5. xyz file into NEW file
+6. input input.dat for cif file
 -----
-
+cif file name
+_cell_length_a  _cell_length_b  _cell_length_c
+_cell_angle_alpha  _cell_angle_beta  _cell_angle_gamma
 -----
-9. click run.exe
+7. click run.exe
