@@ -7,9 +7,9 @@ UFF.atoms
 21908391 
 0
 
-! Default forcefield: UFF (universal force field (LJ) for element in *.xyz (= 1st line in input.dat))
+! Default forcefield: UFF (Universal Force Field (LJ) for element in *.xyz (= 1st line in input.dat))
 ! Helium atom sigma (A), helium atom epsilon (K), temperature (K), cutoff distance (A)
-! Nitrogen atom sigma (A) (sigma (LJ) for molecule, i.d. N2)
+! Nitrogen atom sigma (A) (sigma (LJ) for molecule, i.d. N2 (probe molecule))
 ! Number of samples per atom for the surface area calculation
 ! 0.2: Cubelet size (A)
 ! Largest anticipated pore diameter (A), size of the bin for PSD (A)
