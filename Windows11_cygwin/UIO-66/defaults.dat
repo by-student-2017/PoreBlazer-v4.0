@@ -7,7 +7,7 @@ UFF.atoms
 21908391 
 0
 
-! Default forcefield: UFF (force filed (LJ) for element)
+! Default forcefield: UFF (universal force filed (LJ) for element in *.xyz (= 1st line in input.dat))
 ! Helium atom sigma (A), helium atom epsilon (K), temperature (K), cutoff distance (A)
 ! Nitrogen atom sigma (A) (sigma (LJ) for molecule, i.d. N2)
 ! Number of samples per atom for the surface area calculation
@@ -17,3 +17,4 @@ UFF.atoms
 ! Visualization options: 1 -xyz, 2 - grd, 3 - both; 0 - none
 
 ! Do not change these values unless you know what you are doing 
+
